@@ -4,9 +4,9 @@ Api para gerenciamento de livros
 
 
 
-<div align="center">
+<div >
 <h2>Tecnologias</h2>
-  <h1>Java 11</h1>
+  <h4>Java 11</h4>
 </div>
 
 <div align="center">
