@@ -1,12 +1,16 @@
-<h2># bookstore-api
+<div align="center">
+<h2>#bookstore-api
 Api para gerenciamento de livros
 </h2>
+</div>
 
 
 
 <div >
 <h2>Tecnologias</h2>
   <h4>Java 11</h4>
+  <h4>Maven</h4>
+  <h4>Angular 10</h4>
 </div>
 
 <div align="center">
